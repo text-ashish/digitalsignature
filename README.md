@@ -1,6 +1,6 @@
 # Digital Signature Tool
 
-Welcome to the Digital Signature Tool repository! This tool allows users to draw or upload their signature and download it in various formats such as PNG, JPG, or PDF.
+Welcome to the Digital Signature Tool repository! This tool allows users to draw or upload their signature and download it in various formats such as PNG, JPG, or PDF. Use a touchpad, mouse, phone, tablet or other mobile devices to draw a free downloadable electronic signature. Customize smoothing, color and more.
 
 ## Table of Contents
 - [Features](#features)
