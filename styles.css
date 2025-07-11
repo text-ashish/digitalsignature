@@ -1,0 +1,32 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.signature-container {
+  
+  border: 1px dashed #007bff;
+  border-radius: 8px;
+  padding: 20px;
+  overflow: hidden;
+  display: flex; /* Add this line to make it a flex container */
+  justify-content: center; /* Center the canvas horizontally */
+  align-items: center; /* Center the canvas vertically */
+}
+.inner-box {
+      border: 1px solid #000; /* Change color and width as needed */
+      padding: 10px; /* Add padding to create space between the borders */
+    }
+#signatureCanvas {
+  touch-action: none;
+  background-color: white;
+  display: block; /* Ensure the canvas is a block element */
+  margin: auto; /* Center the canvas within its parent */
+}
